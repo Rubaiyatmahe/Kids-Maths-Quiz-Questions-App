@@ -1,6 +1,14 @@
 # Kids-Maths-Quiz-Questions-App
 
 
+![1](https://user-images.githubusercontent.com/80895946/205875766-c18b57e5-4a8a-4e01-bf8d-921c71930d77.png)
+![2](https://user-images.githubusercontent.com/80895946/205875777-0075aa8b-afe0-4153-ab23-bfb0948d5efe.png)
+![3](https://user-images.githubusercontent.com/80895946/205875788-89cb2b11-af73-4c94-8c3b-260e34c720ab.png)
+![4](https://user-images.githubusercontent.com/80895946/205875799-19070177-6c25-4d30-827f-e5205bfda163.png)
+![5](https://user-images.githubusercontent.com/80895946/205875813-58eec0f6-7b61-42ab-af3f-6c8ae21fb545.png)
+![6](https://user-images.githubusercontent.com/80895946/205875823-4ae8ef12-62d4-42a4-ad2d-53792eb9f52f.png)
+
+
 ![banner](https://user-images.githubusercontent.com/80895946/203981301-1ee31590-0eeb-457b-bcd6-a1592c7e7aaa.png)
 ![1](https://user-images.githubusercontent.com/80895946/203981344-2779c449-fe09-448c-a813-1bd8426013ed.png)
 ![2](https://user-images.githubusercontent.com/80895946/203981360-b2997613-1b31-47ea-9403-59a4713b23ff.png)
